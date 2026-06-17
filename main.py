@@ -8,7 +8,7 @@ from mediapipe.tasks.python import vision
 import pyfirmata
 
 # Configuração do Arduino e servo
-board = pyfirmata.Arduino('COM19')
+board = pyfirmata.Arduino('SUA_PORTA')
 servo_pin = board.get_pin('d:2:s')
 angulo = 90  # Ângulo inicial
 incremento = 5  # Quanto aumentar/diminuir por gesto
