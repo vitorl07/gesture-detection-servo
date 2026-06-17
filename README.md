@@ -23,6 +23,8 @@ Após a Instalação do Python e das Bibliotecas, e também com o circuito pront
 
 Fique a vontade para utilizar o codigo desse projeto.
 
+Vale lembrar também que é necessário uma câmera conectada no computador para o reconhecimento de gestos funcionar.
+
 Referências:
 https://www.instructables.com/Control-Your-Arduino-With-Pythons-Pyfirmata-Librar/
 https://www.geeksforgeeks.org/python/python-opencv-capture-video-from-camera/
